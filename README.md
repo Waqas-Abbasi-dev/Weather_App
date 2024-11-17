@@ -6,8 +6,8 @@ This is a simple weather application that allows users to search for their city 
 
 ## Features
 
-- # Search Bar: Enter the name of your city to get the latest weather data.
-- # Weather Information: Displays the temperature, humidity, and wind speed for the searched city.
+ # Search Bar: Enter the name of your city to get the latest weather data.
+ # Weather Information: Displays the temperature, humidity, and wind speed for the searched city.
 
 ## Technologies Used
 
